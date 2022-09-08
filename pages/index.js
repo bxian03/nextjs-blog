@@ -26,6 +26,11 @@ export default function Home({ allPostsData }) {
           Institute of Technology in the Computing Information Technology
           program.
         </p>
+        <p>
+          I have a passion for computers, servers, and have a knack for
+          troubleshooting. I also enjoy programming and gaming.
+        </p>
+        <p>This website used Next.js is work in progress.</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
